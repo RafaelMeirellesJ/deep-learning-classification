@@ -1,6 +1,6 @@
 # 🔎 Classificação com Redes Neurais Profundas
 
-Este projeto aplica uma rede neural simples para resolver um problema de classificação binária usando dados sobre indicadores de ataques ardi
+Este projeto aplica uma rede neural simples para resolver um problema de classificação binária usando dados sobre Indicadores de Ataque Cardíaco do Kaggle.
 
 ---
 
